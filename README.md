@@ -18,7 +18,7 @@ We will use data from IMDB, The Numbers and The Movie Database to determine answ
 
 ## Data
 
-[IMDB](https://IMDB.com) is the largest, most comprehensive movie database publicly available on the web. [The Numbers.com](https://www.the-numbers.com/) is a trusted resource for movie business information including movie budget, performance and various revenue categories. The data files analyzed herein provide movie titles, genre tags and release date, as well as financial characteristics such as worldwide gross revenue and production budget.
+[IMDB](https://IMDB.com) is the largest, most comprehensive movie database publicly available on the web. [The Numbers](https://www.the-numbers.com/) is a trusted resource for movie business information including movie budget, performance and various revenue categories. The data files analyzed herein provide movie titles, genre tags and release date, as well as financial characteristics such as worldwide gross revenue and production budget.
 
 ## Methods
 
@@ -45,14 +45,14 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 
 For additional info, contact Ogo Ndugba, Zach Pollatsek or Tom Chapman as follows:
 
-Ogo:    ogo.ndugba@gmail.com 
-Zach:   zacharypollatsek@gmail.com
-Tom:    thomas.h.chapman@gmail.com
+- Ogo:    ogo.ndugba@gmail.com 
+- Zach:   zacharypollatsek@gmail.com
+- Tom:    thomas.h.chapman@gmail.com
 
 ## Repository Contents
-* data
-* images
-* working notebooks
-README.md
-MSFT_movie_presentation.pdf
-MSFT_movie_analysis.ipynb
+- data
+- images
+- working notebooks
+- README.md
+- MSFT_movie_presentation.pdf
+- MSFT_movie_analysis.ipynb

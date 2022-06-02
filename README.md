@@ -18,7 +18,7 @@ We will use data from IMDB, The Numbers and The Movie Database to determine answ
 
 ## Data
 
-IMDB is the largest, most comprehensive movie database publicly available on the web. The Numbers.com is a trusted resource for movie business information including movie budget, performance and various revenue categories. The data files analyzed herein provide movie titles, genre tags and release date, as well as financial characteristics such as worldwide gross revenue and production budget.
+[IMDB](https://IMDB.com) is the largest, most comprehensive movie database publicly available on the web. [The Numbers.com](https://www.the-numbers.com/) is a trusted resource for movie business information including movie budget, performance and various revenue categories. The data files analyzed herein provide movie titles, genre tags and release date, as well as financial characteristics such as worldwide gross revenue and production budget.
 
 ## Methods
 
@@ -30,7 +30,9 @@ Display visualizations here with short descriptions.
 
 ## Conclusions
 
-
+- **Movies in the animation, adventure and sci-fi genres tend to produce better return on investment than other genres.** As a result, we recommend prioritizing the creation of content that aligns with these genres. Avoid war and western-themed content as these tend to produce unfavorable ROI.
+- **Movies released in June, July and November tend to generate better return on investment than other months.** As a result, we recommend targeting new releases for the summer or November months.
+- **There is a strong correlation between movie production budget and return on investment.** Microsoft should direct its movie-making budget toward a relatively small number of projects in the above genres to avoid diluting ROI.
 
 ## Next Steps
 
@@ -43,13 +45,14 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 
 For additional info, contact Ogo Ndugba, Zach Pollatsek or Tom Chapman as follows:
 
-XXXXXXXX
+Ogo:    ogo.ndugba@gmail.com 
+Zach:   zacharypollatsek@gmail.com
+Tom:    thomas.h.chapman@gmail.com
 
 ## Repository Contents
-
-├── data
-├── images
-├── working notebooks
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+* data
+* images
+* working notebooks
+README.md
+MSFT_movie_presentation.pdf
+MSFT_movie_analysis.ipynb

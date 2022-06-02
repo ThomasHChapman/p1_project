@@ -1,4 +1,5 @@
 # Microsoft Movie Studios Business Plan
+Authors: Ogo Ndugba, Zach Pollatsek, Tom Chapman
 
 ## Overview
 
@@ -16,4 +17,46 @@ We will use data from IMDB, The Numbers and The Movie Database to determine answ
 - What season/month should we target releases in order to optimize our return on investment?
 
 
+## Data
 
+IMDB, The Numbers, ...
+
+## Methods
+
+This project uses descriptive analysis to provide an overview of the factors that go into executing a successful movie production and release. 
+
+## Results
+
+Display visualizations here with short descriptions.
+
+## Conclusions
+
+
+
+## Next Steps
+
+
+
+
+## For More Information
+
+See the full analysis in the Jupyter Notebook or review this presentation.
+
+For additional info, contact Ogo Ndugba, Zach Pollatsek or Tom Chapman as follows:
+
+
+
+## Repository Contents
+
+├── code
+│   ├── __init__.py
+│   ├── data_preparation.py
+│   ├── visualizations.py
+│   └── eda_notebook.ipynb
+├── data
+├── images
+├── working notebooks
+├── __init__.py
+├── README.md
+├── Animal_Shelter_Needs_Presentation.pdf
+└── animal_shelter_needs_analysis.ipynb

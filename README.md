@@ -25,8 +25,9 @@ We will use data from IMDB, The Numbers and The Movie Database to determine answ
 This project uses descriptive analysis to provide an overview of the factors that go into executing a successful movie production and release. 
 
 ## Results
+![](images/MedianROIbyReleaseMonth.png)
 
-Display visualizations here with short descriptions.
+The data reveals that movies released in June, July or November are produce the highest return on investment.
 
 ## Conclusions
 
@@ -41,7 +42,7 @@ Display visualizations here with short descriptions.
 
 ## For More Information
 
-See the full analysis in the Jupyter Notebook or review this presentation.
+See the full analysis in the [Jupyter Notebook](main_notebook.ipynb) or review [this presentation].
 
 For additional info, contact Ogo Ndugba, Zach Pollatsek or Tom Chapman as follows:
 

@@ -54,7 +54,7 @@ Entering a new industry comes with significant startup costs. To help Microsoft 
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](main_notebook.ipynb) or review [this presentation](MSFT_Movie_Presentation_P1_Project).
+See the full analysis in the [Jupyter Notebook](main_notebook.ipynb) or review [this presentation](MSFT_Movie_Presentation_P1_Project.pdf).
 
 For additional info, contact Ogo Ndugba, Zach Pollatsek or Tom Chapman as follows:
 
@@ -67,5 +67,5 @@ For additional info, contact Ogo Ndugba, Zach Pollatsek or Tom Chapman as follow
 - images
 - working notebooks
 - README.md
-- MSFT_movie_presentation.pdf
+- MSFT_movie_presentation_P1_Project.pdf
 - MSFT_movie_analysis.ipynb

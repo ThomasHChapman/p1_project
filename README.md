@@ -25,6 +25,17 @@ We will use data from IMDB, The Numbers and The Movie Database to determine answ
 This project uses descriptive analysis to provide an overview of the factors that go into executing a successful movie production and release. 
 
 ## Results
+
+![](images/MedianROI_genre.png)
+
+Movies with the Animation, Adventure or Sci-Fi tags generally produced the highest ROI. War and Western movies were the least profitable.
+
+
+![](images/WorldwideGrossRevenueByProductionBudget.png)
+
+There is a strong correlations between production budget and return on investment.
+
+
 ![](images/MedianROIbyReleaseMonth.png)
 
 The data reveals that movies released in June, July or November are produce the highest return on investment.
@@ -37,8 +48,11 @@ The data reveals that movies released in June, July or November are produce the 
 
 ## Next Steps
 
+Entering a new industry comes with significant startup costs. To help Microsoft produce an initial movie that is a blockbuster, we recommend the following additional analysis.
 
-
+- Additional budgetary data to increase sample size and refine observations.
+- Identify replacement metrics to measure success where budget/revenue is unavailable.
+- Further analysis of the top grossing 50 movies of the past decade. Taking a more in depth look at what made these movies so financially successful.
 
 ## For More Information
 

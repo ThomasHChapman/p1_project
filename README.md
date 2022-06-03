@@ -36,7 +36,7 @@ Movies with the Animation, Adventure or Sci-Fi tags generally produced the highe
 There is a strong correlations between production budget and return on investment.
 
 
-![](images/MedianROIbyReleaseMonth.png)
+![](images/MedianROI_ReleaseMonth.png)
 
 The data reveals that movies released in June, July or November are produce the highest return on investment.
 

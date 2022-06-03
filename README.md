@@ -26,19 +26,17 @@ This project uses descriptive analysis to provide an overview of the factors tha
 
 ## Results
 
+Movies with the Animation, Adventure or Sci-Fi tags generally produced the highest ROI. War and Western movies were the least profitable.
 ![](images/MedianROI_genre.png)
 
-Movies with the Animation, Adventure or Sci-Fi tags generally produced the highest ROI. War and Western movies were the least profitable.
-
-
-![](images/WorldwideGrossRevenueByProductionBudget.png)
 
 There is a strong correlations between production budget and return on investment.
+![](images/WorldwideGrossRevenueByProductionBudget.png)
 
-
-![](images/MedianROI_ReleaseMonth.png)
 
 The data reveals that movies released in June, July or November are produce the highest return on investment.
+![](images/MedianROI_ReleaseMonth.png)
+
 
 ## Conclusions
 

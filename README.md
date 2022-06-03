@@ -25,7 +25,7 @@ We will use data from IMDB, The Numbers and The Movie Database to determine answ
 This project uses descriptive analysis to provide an overview of the factors that go into executing a successful movie production and release. 
 
 ## Results
-[my image]https://github.com/ThomasHChapman/p1_project/blob/main/images/MedianROI_genre.png
+![my image]https://github.com/ThomasHChapman/p1_project/blob/main/images/MedianROI_genre.png
 
 Display visualizations here with short descriptions.
 

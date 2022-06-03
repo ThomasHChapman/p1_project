@@ -66,6 +66,7 @@ For additional info, contact Ogo Ndugba, Zach Pollatsek or Tom Chapman as follow
 - data
 - images
 - working notebooks
+- .gitignore
 - README.md
 - MSFT_Movie_Presentation.pdf
 - MSFT_Movie_Analysis.ipynb
